@@ -1,0 +1,4 @@
+{:deps {}
+ :paths ["lib1"]
+ :aliases {:name-keyword {:extra-paths ["lib2"]}
+           :ns/keyword   {:extra-paths ["lib3"]}}}
